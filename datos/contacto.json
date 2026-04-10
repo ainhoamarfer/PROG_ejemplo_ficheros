@@ -1,0 +1,12 @@
+{
+  "nombre": "Ana García",
+  "email": "ana@ejemplo.com",
+  "edad": 28,
+  "activo": true,
+  "direccion": {
+    "calle": "Calle Mayor, 12",
+    "ciudad": "Madrid",
+    "codigoPostal": "28001"
+  },
+  "telefonos": ["600 111 222", "911 333 444"]
+}

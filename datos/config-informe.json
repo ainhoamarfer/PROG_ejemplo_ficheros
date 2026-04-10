@@ -1,0 +1,16 @@
+{
+  "titulo": "Informe de Inventario",
+  "formato": "tabla",
+  "maxEntradas": 4,
+  "separador": ";",
+  "mostrarFecha": true,
+  "rutaSalida": "salida-informe.txt",
+  "productos": [
+    { "nombre": "Laptop ProMax",      "precio": 1249.99, "stock":  8 },
+    { "nombre": "Raton Laser",        "precio":   24.99, "stock": 42 },
+    { "nombre": "Teclado Mecanico",   "precio":   89.99, "stock": 15 },
+    { "nombre": "Monitor 4K",         "precio":  449.99, "stock":  5 },
+    { "nombre": "Auriculares BT",     "precio":   69.99, "stock": 22 },
+    { "nombre": "Webcam FHD",         "precio":   59.99, "stock": 18 }
+  ]
+}

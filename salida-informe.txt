@@ -1,0 +1,12 @@
+=============================================
+  Informe de Inventario
+  Generado: 07/04/2026 19:24
+=============================================
+PRODUCTO                   PRECIO     STOCK
+---------------------------------------------
+Laptop ProMax            1249.99 EUR     8 ud
+Raton Laser                24.99 EUR    42 ud
+Teclado Mecanico           89.99 EUR    15 ud
+Monitor 4K                449.99 EUR     5 ud
+---------------------------------------------
+Suma precios: 1814.96 EUR  |  Stock total: 70 ud
