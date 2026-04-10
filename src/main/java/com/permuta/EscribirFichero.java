@@ -52,9 +52,11 @@ public final class EscribirFichero {
     try (var scanner = new Scanner(System.in, StandardCharsets.UTF_8)) {
       while (scanner.hasNextLine()) {
         var linea = scanner.nextLine();
+
         if (CENTINELA.equalsIgnoreCase(linea)) {
           break;
         }
+
         lineas.add(linea);
       }
     }
