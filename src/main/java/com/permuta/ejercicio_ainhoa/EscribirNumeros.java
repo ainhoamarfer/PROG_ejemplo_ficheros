@@ -11,6 +11,16 @@ import java.util.Scanner;
 
 public class EscribirNumeros {
 
+    //1. Obtener numeros a procesar
+    //2. Procesar los numeros
+    //2.1. nº de numeros introducidos
+    //2.2. Sum nº
+    //2.3. Min
+    //2.4. Max
+    //2.5. Avg
+    //2.6.
+    //2.7.
+    //3. Escribir el procesamiento en un archivo
     private static final int END = -1;
     private static final Path RUTA_FICHERO = Path.of("recursos/numeros.txt");
 
